@@ -33,8 +33,7 @@ Your Name – greesh@bu.edu
 
 Project Link: https://github.com/greesh13/React-Dashboard
 
-#Outlook
-![alt text](src/images/Screen Shot 2024-04-22 at 11.02.45 PM.png "Homepage")
+
 
 
 
