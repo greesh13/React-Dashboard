@@ -36,7 +36,7 @@ function App() {
       </div>
     );
   };
-
+  const basename = '/React-Dashboard/';
   const router = createBrowserRouter([
     {
       path: "/",
@@ -68,7 +68,7 @@ function App() {
       path: "/login",
       element: <Login />,
     },
-  ]);
+  ],{ basename });
 
   return <RouterProvider router={router} />;
 }
