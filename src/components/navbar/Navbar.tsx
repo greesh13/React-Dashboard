@@ -17,7 +17,7 @@ const Navbar = () => {
         </div>
         <div className="user">
           <img
-            src="https://media.licdn.com/dms/image/D4E03AQF8swUY9wAMDA/profile-displayphoto-shrink_200_200/0/1701475717834?e=2147483647&v=beta&t=Er4rpvuwLzW_J-CXOYYS0Jm1h6s1eEnniRake0PVifY"
+            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fgreeshs_interpretableai-textexploration-deeplearning-activity-7100384931356258305-OWcS%3Ftrk%3Dpublic_profile_like_view&psig=AOvVaw0nIjYYJtHoR37NH0uIfT-b&ust=1713924301896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjLnqag14UDFQAAAAAdAAAAABAE"
             alt=""
           />
           <span>Greeshma</span>
