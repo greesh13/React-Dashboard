@@ -22,7 +22,15 @@ To get started with this dashboard, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/greesh13/React-Dashboard.git
 2. yarn : Installs all the dependencies
 3. yarn run dev : Starts the development server
-4. The dashboard should now be running on http://localhost:3000/.
+4. The dashboard should now be running on  http://localhost:5174/
+
+
+Contact
+Your Name – greesh@bu.edu
+
+Project Link: https://github.com/greesh13/React-Dashboard
+
+
