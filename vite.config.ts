@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     outDir: 'build',
     rollupOptions: {
-      external: ['/React-Dashboard/build/main.js'] // Adjust the path as needed
+      external: ['./build/main.js'] // Adjust the path as needed
     }
   }
 });
